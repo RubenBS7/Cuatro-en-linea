@@ -11,3 +11,4 @@ Y numpy  para las matrices. Para utilizar estas librerías debemos ir a la conso
   pip install pygame
   
 De esta manera se instalarán las librerías.
+![image](https://user-images.githubusercontent.com/89985647/131878873-c64476c3-98a7-4ffb-984a-6bc6eae5b77f.png)
